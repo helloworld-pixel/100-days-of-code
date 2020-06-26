@@ -9,6 +9,9 @@
 ## My Daily Progress
 * Check the @[Log](https://github.com/helloworld-pixel/100-days-of-code/blob/master/log.md#100-days-of-code---log) file for my latest updates.
 
+## Join me on my journey on Discord
+*<iframe src="https://discordapp.com/widget?id=725966463936233554&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 ## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
