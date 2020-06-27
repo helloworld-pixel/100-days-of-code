@@ -19,3 +19,14 @@ To ensure that I stick to my commitment and myself in check, I plan to do the fo
 **Link to my work** :- N/A
 
 ---
+
+### Day 1: 26 June 2020
+**Today's Progress**:- The second day was mostly spent on going through the community forums. I added a few more relevant channels on my personal discord server
+so that others who are starting out with me on the #100DaysOfCode challenge can commuunicate effectively and send in their daily progress.I learned to use the concept of webhooks and applied that on my discord server and by doing this I was successsfully able to automate the task of providing daily updates. Also, I've decided to put in a section that'll number of hours that I'll be putting in to code. 
+
+**Thoughts**:- I was successfully able to wake up early in the morning. It was tough for me to pull through the day as my body was still taking time to adjusting to the new schedule. A couple of people from my group also joined me in the challenge. Overall it was a productive day.
+
+**No. of hours spent learning**:- 1 hour 16 minutes
+
+**Link to my work**-:- N/A
+---
